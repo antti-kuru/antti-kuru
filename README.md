@@ -2,8 +2,6 @@
 <h3 align="center">2nd Year Software Engineering Student</h3>
 
 - 🌱 I’m currently learning **full stack, testing, devops**
-- 
-
 
 
 <h3 align="left">Languages and Tools:</h3>
