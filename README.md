@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antti Kuru</h1>
-<h3 align="center">2nd Year Software Engineering Student</h3>
+<h3 align="center">3nd Year Software Engineering Student</h3>
 
 - 🌱 I’m currently learning **full stack, testing, devops**
 
